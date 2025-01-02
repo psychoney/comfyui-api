@@ -1,0 +1,5 @@
+websocket-client
+Pillow
+fastapi
+uvicorn
+pydantic
