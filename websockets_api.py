@@ -9,7 +9,7 @@ import urllib.parse
 import os
 import random
 
-server_address = "home.plantplanethome.com:8188"
+server_address = "localhost:8188"
 client_id = str(uuid.uuid4())
 
 def queue_prompt(prompt):
